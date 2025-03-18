@@ -1,0 +1,24 @@
+{
+  "name": "ects-postavnyi-kostiantyn",
+  "version": "1.0.0",
+  "description": "Npm package that converts scores from the 100-point grading system to the ECTS format",
+  "main": "ECTS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PimakPk/sprint18_ects.git"
+  },
+  "keywords": [
+    "ects",
+    "score",
+    "convert"
+  ],
+  "author": "Pimak <kotav.155@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PimakPk/sprint18_ects/issues"
+  },
+  "homepage": "https://github.com/PimakPk/sprint18_ects#readme"
+}
